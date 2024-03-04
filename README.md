@@ -36,20 +36,36 @@ Pathfiner Intern (June.2023 - Aug.2023) <br>
 
 <h3 align="center">💡 &nbsp Projects &nbsp 💡</h3>
 
-### Zupzup Web Backend (Jan.2021 - Now) <br>
+### - Zupzup Web Backend (Jan.2021 - Now) <br>
 [✅ 줍줍 입점 신청 웹사이트](https://zupzupofficial.com)
+<br><br>
+<b>Backend - Java/Spring</b>
+<br><br>
 
-### K-SW Square (Jan.2024 - Feb.2024) <br>
+### - K-SW Square (Jan.2024 - Feb.2024) <br>
 <a href="https://github.com/seasameoil/network_LoRaWAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=network_LoRaWAN" />
 </a>
+<br><br>
+<b>Wiring, Network - LoRa</b>
+<br><br>
 
-### Apptive (Sep.2022 - Aug.2023) <br>
+### - Capstone Project | Graduation Task (Sep.2023 - Feb.2024) <br>
+<a href="https://github.com/seasameoil/capstone-2023-1-26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=capstone-2023-1-26" />
+</a>
+<br><br>
+<b>Frontend, Backend - JavaScript/Python/Django</b>
+<br><br>
+
+### - Apptive (Sep.2022 - Aug.2023) <br>
 <a href="https://github.com/seasameoil/apptive-17th-fruitable-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=apptive-17th-fruitable-backend" />
 </a>
 <a href="https://github.com/seasameoil/apptive-18th-healingMate-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=apptive-18th-healingMate-backend" />
 </a>
+<br><br>
+<b>Backend - Java/Spring</b>
 
 <br>
