@@ -1,6 +1,6 @@
 # Hyunjeong Hwang 🤓
 
-### 안녕하세요 :) Java와 Spring을 주로 사용하는 백엔드 개발자 입니다.
+### 안녕하세요 :) Java/Spring 백엔드 개발자 입니다.
 
 <br>
 
