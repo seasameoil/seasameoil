@@ -37,9 +37,7 @@ Pathfiner Intern (June.2023 - Aug.2023) <br>
 <h3 align="center">💡 &nbsp Projects &nbsp 💡</h3>
 
 ### Zupzup Web Backend (Jan.2021 - Now) <br>
-<a herf="https://zupzupofficial.com/">
-  <b> ✅ 줍줍 입점 신청 웹사이트 </b>
-</a>
+[✅ 줍줍 입점 신청 웹사이트](https://zupzupofficial.com)
 
 ### K-SW Square (Jan.2024 - Feb.2024) <br>
 <a href="https://github.com/seasameoil/network_LoRaWAN">
