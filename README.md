@@ -38,6 +38,11 @@ Pathfiner Intern (June.2023 - Aug.2023) <br>
 
 ### - Zupzup Web Backend (Jan.2021 - Now) <br>
 [✅ 줍줍 입점 신청 웹사이트](https://zupzupofficial.com)
+
+<a href="https://github.com/Team-JupJup/Zupzup_backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=network_LoRaWAN" />
+<a href="https://github.com/Team-JupJup/Zupzup-Web_backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seasameoil&repo=network_LoRaWAN" />
 <br><br>
 <b>Backend - Java/Spring</b>
 <br><br>
