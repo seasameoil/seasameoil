@@ -39,11 +39,11 @@ Pathfiner Intern (June.2023 - Aug.2023) <br>
 ### - Zupzup Web Backend (Jan.2021 - Now) <br>
 [✅ 줍줍 입점 신청 웹사이트](https://zupzupofficial.com)
 
-<a href="https://github.com/Team-JupJup/Zupzup_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-JupJup&repo=Zupzup_backend" />
+<a href="https://github.com/Team-JubJub/Zupzup_backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-JubJub&repo=Zupzup_backend" />
 </a>
-<a href="https://github.com/Team-JupJup/Zupzup-Web_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-JupJup&repo=Zupzup-Web_backend" />
+<a href="https://github.com/Team-JubJub/Zupzup-Web_backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-JubJub&repo=Zupzup-Web_backend" />
 </a>
 <br><br>
 <b>Backend - Java/Spring</b>
